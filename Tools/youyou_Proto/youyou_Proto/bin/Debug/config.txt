@@ -1,0 +1,5 @@
+F:\UnityProject\youyouMMO\trunk\NewMMO\Assets\YouYouScript\Data\Proto
+F:\UnityProject\youyouMMO\trunk\NewMMO\Assets\YouYouScript\Data\ProtoHandler
+F:\UnityProject\youyouMMO\trunk\NewMMO\Assets\Download\xLuaLogic\DataNode\Proto
+F:\UnityProject\youyouMMO\trunk\NewMMO\Assets\Download\xLuaLogic\DataNode\ProtoHandler
+F:\UnityProject\youyouMMO\trunk\Server\YouYouServer\YouYouServer.Model\Proto
